@@ -22,15 +22,20 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import telegrambot from "./telegrambot.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import pong from "./pong.png";
+import airbnb from "./airbnb.png";
+import network from "./network.jpeg";
+import energy from "./energy.png";
+import mail from "./mail.jpeg";
+import wiki from "./wiki.jpeg";
 
 export {
   logo,
@@ -63,5 +68,12 @@ export {
   tripguide,
   python,
   ruby,
-  sql
+  sql,
+  telegrambot,
+  pong,
+  airbnb,
+  network,
+  energy,
+  mail,
+  wiki
 };
